@@ -3,3 +3,5 @@ some modify
 在vscode中修改了这一行。
 在github上修改了这一行。
 写入了main函数
+我爱吃阿达西烧烤
+你爱不爱吃烤肉？
